@@ -27,8 +27,8 @@ def plot_sine():
         ax.set_xlabel('x')
         ax.set_ylabel('y')
 
-        # 显示图例
-        ax.legend()
+        # 显示图例，并将其放置在右上角
+        ax.legend(loc='upper right')
 
         # 显示网格
         ax.grid(True)
