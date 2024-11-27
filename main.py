@@ -43,7 +43,7 @@ def plot_sine():
 
 def save_image():
     # 保存图像为 PNG 文件
-    file_name = "sine_function.png"
+    file_name = "img/sine_function.png"
     fig.savefig(file_name)
     status_label.config(text=f"Image saved as {file_name}")
 

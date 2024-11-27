@@ -18,5 +18,5 @@
 4. 点击 "Save Image" 按钮保存图像为 PNG 文件
 5. 重新输入起始值和结束值后点击"Plot Sine Function"按钮绘制新的图像
 ## 运行截图
-![运行截图](Xnip2024-11-27_09-47-52.jpg)
-![画出的函数图像](sine_function.png)
+![运行截图](img/Xnip2024-11-27_09-47-52.jpg)
+![画出的函数图像](img/sine_function.png)
